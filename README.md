@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi 👋
 
+Alberto, a developer based in spain.
 <!--
 **Alberto-Aileni/Alberto-Aileni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
